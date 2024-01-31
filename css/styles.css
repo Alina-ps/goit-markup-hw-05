@@ -847,6 +847,7 @@ img {
 .modal-checkbox-container {
   width: 360px;
   margin-bottom: 24px;
+  font-size: 0%;
 }
 
 .modal-checkbox-label {
@@ -854,8 +855,6 @@ img {
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  display: flex;
-  align-items: center;
 }
 
 .modal-checkbox-label .modal-check-text {

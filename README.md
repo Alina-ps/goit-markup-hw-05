@@ -50,5 +50,5 @@
 23. when child is inline-block, which adds margin, and you need to get rid of
     it, set for parent font-size 0 -->
 
-24. не має різниці як вкладати в лабел
-25. position center top 50% left 50% transform: translate (50% 50%)
+<!-- 24. не має різниці як вкладати в лабел
+25. position center top 50% left 50% transform: translate (50% 50%) -->
